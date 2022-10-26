@@ -1,0 +1,64 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.container{
+    margin: 2% 3%;
+    color: white;
+    background-image: url(https://zuri-registration.lhucyc.repl.co/Images/background.jpg);
+    background-size: 2000px 2000px;
+    height: 80vh;
+}
+
+.main_bod{
+    /* width: 1000px; */
+    height: auto;
+    margin: 14% auto auto 16%;
+    /* color: #fff; */
+    color: #fbf6d9;
+    position: relative;
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* font-family: 'Aref Ruqaa Ink', serif; */
+    font-family: 'Old Standard TT', serif;
+}
+.main_h1{
+    letter-spacing: 5px;
+    font-size: 7em;
+    /* margin-bottom: ; */
+
+}
+.main_h1 span{
+    /* color: #CFA350; */
+    font-size: 200px;
+    /* font-style: italic; */
+    padding-left: 0.1em;
+}
+.main_par{
+    font-size: 3em;
+    color: #f7f6f2;
+    margin: -2.5em auto auto 7em;
+}
+.main_btn{
+    position: relative;
+    width: 230px;
+    top: 10em;
+    left: 75em;
+    /* right: auto; */
+}
+.mbtnr, .mbtnl{
+    padding: 10px;
+    border-radius: 7px;
+    background-color: #fbf6d9;
+    /* font-family: 'Old Standard TT', sans-serif; */
+    font-size: 15px;
+}
+.mbtnl a{
+    margin: auto 8px;
+}
+.mbtnr:hover, .mbtnl:hover{
+    background-color: #CFA350;
+}
+.mbtnr a, .mbtnl a{
+    color: black;
+    text-decoration: none;
+}

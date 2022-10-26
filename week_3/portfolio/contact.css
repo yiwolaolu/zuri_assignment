@@ -1,0 +1,16 @@
+body{
+    background-color: #B15D14;
+    color: white; 
+    font-family: 'Josefin Sans', sans-serif;
+}
+.info{
+    box-sizing: border-box;
+    border-radius: 2px;
+    border: 2px solid grey;
+    width: 400px;
+    height: auto;
+    background-color: grey;
+    opacity: 0.5;
+    margin-top: 15%;
+    margin-left: 30%;
+    font-size: 20px;
